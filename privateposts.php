@@ -12,6 +12,7 @@
   */
   // Allow subscribers to see Private posts and pages
 $subRole = get_role( 'subscriber' );
+  //Remove either of the following lines (16 17) if you do not want subscribers to be able to see both posts and pages.
 $subRole->add_cap( 'read_private_posts' );
 $subRole->add_cap( 'read_private_pages' );
 ?>
