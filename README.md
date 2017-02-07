@@ -1,7 +1,7 @@
 # gotjane-wp-privateposts
 A WordPress plugin to allow users with Subscriber level view and comment private posts.
 
-This plugin was created using code from Tiny May's post for people are intimidated by editing their `functions.php` file and/or who don't want to have to remember to carry over more code to their new theme. Using a plugin will prevent theme-related complications when changing and/or troubleshooting themes.
+This plugin was created using code from [Tiny May's post](https://krisophical.com/journal/keeping-it-simple/) for people are intimidated by editing their `functions.php` file and/or who don't want to have to remember to carry over more code to their new theme. Using a plugin will prevent theme-related complications when changing and/or troubleshooting themes.
 
 Please only download copies of this plugin from the [releases](https://github.com/gotjane/gotjane-wp-privateposts/releases) unless you know what you're doing.
 
